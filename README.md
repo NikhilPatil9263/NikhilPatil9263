@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=NIKHIL%20MANOJ%20PATIL&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%C2%B7%20RAG%20%C2%B7%20Computer%20Vision&descAlignY=55&descSize=17&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=NIKHIL%20MANOJ%20PATIL&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Systems%20%7C%20Agentic%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20AWS&descAlignY=55&descSize=17&fontAlign=50" width="100%"/>
 
 <a href="https://www.linkedin.com/in/nikhil-patil-2013a0282/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
