@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a final-year **AI/ML engineering student** focused on building systems that go beyond experimentation — from model training to deployment in real, constrained environments. My work spans **Agentic AI (LangGraph)**, **production RAG pipelines**, **Computer Vision**, and **cloud/serverless architecture on AWS**.
+I'm a final-year **AI/ML engineering student** focused on building systems that go beyond experimentation — from model training to deployment in real, constrained environments. My work spans **Agentic AI (LangGraph)**, **Scalable RAG pipelines**, **Computer Vision**, and **cloud/serverless architecture on AWS**.
 
 I care about the full lifecycle of a project: training a model, orchestrating multi-agent reasoning, and deploying it behind a working service — rather than stopping at a notebook or a proof of concept.
 
