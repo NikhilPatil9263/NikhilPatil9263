@@ -28,7 +28,7 @@ I care about the full lifecycle of a project: training a model, orchestrating mu
 - 🏗️ **Approach:** End-to-end ownership — data pipeline, model training, backend API, cloud infrastructure, and deployment
 - 📊 **Selected results:** 79% mAP50 on a custom 5,000-image dataset · repository-scale code reviews in under 3 minutes across 13-language codebases
 - 🎓 B.Tech, Artificial Intelligence & Machine Learning — R.C. Patel Institute of Technology (2023–Present)
-- 📍 Dhule, Maharashtra, India · Open to AI/ML and Agentic AI internships and roles
+-  · Open to AI/ML and Agentic AI internships and roles
 
 <br/>
 
